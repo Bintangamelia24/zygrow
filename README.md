@@ -1,4 +1,4 @@
-<h1 align="center">🌱 ZyGrow</h1>
+<h1 align="center">ZyGrow</h1>
 <p align="center"><b>Sistem Informasi Pencatatan Data Antropometri dan Status Gizi Anak Berbasis Desktop</b></p>
 
 <p align="center">
