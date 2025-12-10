@@ -19,7 +19,7 @@ ZyGrow – Sistem Informasi Pencatatan Data Antropometri dan Status Gizi Anak Be
 - Umur
 - Indeks Status Gizi menggunakan **Z-Score WHO**
 
-Aplikasi ini bertujuan memudahkan tenaga kesehatan, kader posyandu, atau instansi pendidikan dalam:
+Aplikasi ini bertujuan di klaim kader posyandu dalam:
 - Monitoring pertumbuhan anak  
 - Pencatatan rutin data kesehatan  
 - Melakukan evaluasi status gizi secara cepat dan akurat  
