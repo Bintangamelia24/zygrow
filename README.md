@@ -10,6 +10,18 @@
 
 ---
 
+## 📥 Download Aplikasi
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1Gshuuk9X6vcYFHDRbjZqggso4wtfua7_" target="_blank">
+    <img src="https://img.shields.io/badge/Download-ZyGrow%20Installer-blue?style=for-the-badge&logo=google-drive">
+  </a>
+</p>
+
+Atau gunakan link langsung:  
+👉 **https://drive.google.com/drive/folders/1Gshuuk9X6vcYFHDRbjZqggso4wtfua7_**
+
+---
+
 ## 📖 Tentang ZyGrow
 **ZyGrow** adalah aplikasi desktop yang dirancang untuk membantu pencatatan, analisis, dan pengolahan data **antropometri anak** menggunakan standar **Z-Score WHO**.
 
@@ -63,5 +75,3 @@ Desain menggunakan **Java Swing** dan GUI Builder bawaan NetBeans.
 | 📊 Grafik | JFreeChart |
 | 📐 Logika Z-Score | WHO Anthro Standards |
 | ⚙️ IDE Pengembangan | Apache NetBeans / IntelliJ IDEA |
-
----
