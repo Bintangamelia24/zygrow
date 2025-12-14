@@ -11,14 +11,17 @@
 ---
 
 ## 📥 Download Aplikasi
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1Gshuuk9X6vcYFHDRbjZqggso4wtfua7_" target="_blank">
-    <img src="https://img.shields.io/badge/Download-ZyGrow%20Installer-blue?style=for-the-badge&logo=google-drive">
-  </a>
-</p>
 
-Atau gunakan link langsung:  
-👉 **https://drive.google.com/drive/folders/1Gshuuk9X6vcYFHDRbjZqggso4wtfua7_**
+### 🔹 Download Installer (EXE)
+👉 https://www.mediafire.com/file/6a3hodwzj5baop2/Zygrow-1.0.0.rar/file
+
+### 🔹 Download Database
+👉 https://www.mediafire.com/file/m36dbn0xvlpzi8k/db_stunting.sql/file
+
+> 📌 **Catatan:**  
+> - Project source code **belum dipublikasikan**  
+> - Pastikan database sudah di-import sebelum menjalankan aplikasi
+
 
 ---
 
