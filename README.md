@@ -10,21 +10,6 @@
 
 ---
 
-## 📥 Download Aplikasi
-
-### 🔹 Download Installer (EXE)
-👉 https://www.mediafire.com/file/6a3hodwzj5baop2/Zygrow-1.0.0.rar/file
-
-### 🔹 Download Database
-👉 https://www.mediafire.com/file/m36dbn0xvlpzi8k/db_stunting.sql/file
-
-> 📌 **Catatan:**  
-> - Project source code **belum dipublikasikan**  
-> - Pastikan database sudah di-import sebelum menjalankan aplikasi
-
-
----
-
 ## 📖 Tentang ZyGrow
 **ZyGrow** adalah aplikasi desktop yang dirancang untuk membantu pencatatan, analisis, dan pengolahan data **antropometri anak** menggunakan standar **Z-Score WHO**.
 
@@ -38,6 +23,19 @@ Data antropometri yang dikelola meliputi:
 - Tinggi/Panjang Badan (TB/PB)
 - Umur
 - Perhitungan Z-Score
+
+---
+
+## 📸 Tampilan Aplikasi ZyGrow
+
+### 🔐 Halaman Login
+![Login ZyGrow](screenshots/login.png)
+
+### 📝 Halaman Pendaftaran (Signup)
+![Signup ZyGrow](screenshots/signup.png)
+
+### 🏠 Dashboard Utama
+![Dashboard ZyGrow](screenshots/menuutama.png)
 
 ---
 
@@ -78,3 +76,19 @@ Desain menggunakan **Java Swing** dan GUI Builder bawaan NetBeans.
 | 📊 Grafik | JFreeChart |
 | 📐 Logika Z-Score | WHO Anthro Standards |
 | ⚙️ IDE Pengembangan | Apache NetBeans / IntelliJ IDEA |
+
+---
+
+## 📥 Download Aplikasi
+
+### 🔹 Download Installer (EXE)
+👉 https://www.mediafire.com/file/6a3hodwzj5baop2/Zygrow-1.0.0.rar/file
+
+### 🔹 Download Database
+👉 https://www.mediafire.com/file/m36dbn0xvlpzi8k/db_stunting.sql/file
+
+> 📌 **Catatan:**  
+> - Project source code **belum dipublikasikan**  
+> - Pastikan database sudah di-import sebelum menjalankan aplikasi
+
+---
