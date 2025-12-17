@@ -27,16 +27,17 @@
 ## 📖 Tentang ZyGrow
 **ZyGrow** adalah aplikasi desktop yang dirancang untuk membantu pencatatan, analisis, dan pengolahan data **antropometri anak** menggunakan standar **Z-Score WHO**.
 
-Aplikasi ini mendukung kader posyandu, tenaga kesehatan, maupun lembaga pendidikan dalam:
+Aplikasi ini mendukung kader posyandu:
 - 📊 Monitoring pertumbuhan anak  
 - 📝 Pencatatan rutin data kesehatan  
 - ⚕️ Evaluasi status gizi secara cepat, akurat, dan terstruktur  
 
 Data antropometri yang dikelola meliputi:
+- Nama
+- Umur
 - Berat Badan (BB)
 - Tinggi/Panjang Badan (TB/PB)
-- Umur
-- Perhitungan Z-Score
+- Lingkar Kepala (LK)
 
 ---
 
@@ -53,7 +54,6 @@ Menggunakan standar Z-Score WHO:
 - BB/U  
 - TB/U  
 - BB/TB  
-- IMT/U  
 
 ### 📈 4. Grafik Perkembangan
 Visualisasi pertumbuhan anak menggunakan grafik interaktif (JFreeChart).
