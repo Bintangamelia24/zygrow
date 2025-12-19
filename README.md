@@ -13,7 +13,7 @@
 ## 📥 Download Aplikasi
 
 ### 🔹 Download Installer (EXE)
-👉 https://www.mediafire.com/file/i69k38w3zm1eouh/Zygrow-1.0.0.rar/file
+👉 https://www.mediafire.com/file/otfyx3pvol6b7c1/Zygrow-1.0.0.rar/file
 
 ### 🔹 Download Database
 👉 https://www.mediafire.com/file/m36dbn0xvlpzi8k/db_stunting.sql/file
